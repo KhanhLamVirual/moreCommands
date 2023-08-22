@@ -38,6 +38,7 @@ import manager.*;
 
 
 public class moreCommandsPlugin extends mindustry.mod.Plugin {
+  private String OwnerUuid = "ynHvZ8kpCxgAAAAAxBrAfQ==";
   @SuppressWarnings("unchecked")
   public moreCommandsPlugin() {
     Log.info("|-> MoreCommands Plugin is loading ....");
